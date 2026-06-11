@@ -1,65 +1,72 @@
-#Abd elouahid
-
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Computer+Science+Student+%40+USTHB;Java+%7C+React+%7C+SQL+%7C+C;Always+learning%2C+always+building+%F0%9F%9A%80)
+```
+╔══════════════════════════════════════════════════╗
+║   Abdelouahid Kherchache  @Wahidkherchache       ║
+║   CS Student · USTHB, Algeria                    ║
+║   building things — one commit at a time         ║
+╚══════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### whoami
 
-- 🎓 L2 ACAD Student @ **USTHB**, Algiers — Algeria
-- 💻 Passionate about **Software Engineering** & **Web Development**
-- 🌱 Currently learning **React.js** and building full-stack projects
-- 🔭 Working on: **Medical Clinic Management App**
-- 📫 Open to **internship opportunities**
-- ⚡ Fun fact: I do bodybuilding daily 💪
-
----
-
-## 🛠️ Tech Stack
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+```yaml
+name:     Abdelouahid Kherchache
+handle:   Wahidkherchache
+location: Algiers, Algeria 🇩🇿
+studying: L2 ACAD — USTHB (Software Engineering track)
+learning: React.js ⚛️
+status:   open to internship opportunities
+```
 
 ---
 
-## 📊 GitHub Stats
+### stack
+
+```
+Languages    →  Java · C · JavaScript · Assembly (8086)
+Frontend     →  React · HTML · CSS · TypeScript
+Database     →  Oracle SQL · JDBC
+Tools        →  Git · Linux · VS Code
+Learning     →  Node.js · Spring Boot
+```
+
+---
+
+### featured
+
+| project | description | tech |
+|---------|-------------|------|
+| [medical-clinic-app](https://github.com/Wahidkherchache/medical-clinic-app) | Desktop clinic management system | Java · Oracle JDBC |
+| [calculator-app](https://github.com/Wahidkherchache/calculator-app) | Clean calculator — vanilla JS | HTML · CSS · JS |
+| [abdel-ouahid-portfolio](https://github.com/Wahidkherchache/abdel-ouahid-portfolio) | Personal portfolio | CSS |
+| [portfolio-upp](https://github.com/Wahidkherchache/portfolio-upp) | Upgraded portfolio | TypeScript |
+
+---
+
+### stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wahidkherchache&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wahidkherchache&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=e24b4a&icon_color=e24b4a)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wahidkherchache&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wahidkherchache&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=e24b4a)
 
 </div>
 
 ---
 
-## 🚀 Featured Project
-
-### 🏥 Medical Clinic Management App
-> Java Swing + Oracle JDBC — Desktop app for managing clinic operations
-> 
-> ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-> ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-
----
-
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Wahidkherchache&color=red&style=flat-square)
+`always learning · always building`
+
+![Profile Views](https://komarev.com/ghpvc/?username=Wahidkherchache&color=e24b4a&style=flat-square&label=profile+views)
 
 </div>
-
 <!--
 **Wahidkherchache/Wahidkherchache** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
