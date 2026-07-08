@@ -18,7 +18,7 @@
 name:     Abdelouahid Kherchache
 handle:   Wahidkherchache
 location: Algiers, Algeria 🇩🇿
-studying: L2 ACAD — USTHB (Software Engineering track)
+studying: L3 ACAD — USTHB (Software Engineering track)
 learning: React.js ⚛️
 status:   open to internship opportunities
 ```
