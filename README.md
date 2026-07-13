@@ -37,29 +37,6 @@ Learning     →  Node.js · Spring Boot
 
 ---
 
-### featured
-
-| project | description | tech |
-|---------|-------------|------|
-| [medical-clinic-app](https://github.com/Wahidkherchache/medical-clinic-app) | Desktop clinic management system | Java · Oracle JDBC |
-| [calculator-app](https://github.com/Wahidkherchache/calculator-app) | Clean calculator — vanilla JS | HTML · CSS · JS |
-| [abdel-ouahid-portfolio](https://github.com/Wahidkherchache/abdel-ouahid-portfolio) | Personal portfolio | CSS |
-| [portfolio-upp](https://github.com/Wahidkherchache/portfolio-upp) | Upgraded portfolio | TypeScript |
-
----
-
-### stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wahidkherchache&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=e24b4a&icon_color=e24b4a)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wahidkherchache&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=e24b4a)
-
-</div>
-
----
-
 <div align="center">
 
 `always learning · always building`
