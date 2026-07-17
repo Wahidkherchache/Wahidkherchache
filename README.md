@@ -57,35 +57,9 @@
 
 ## 🏎️ Featured Projects
 
-<div align="center">
-
-<a href="https://wahidkherchache.github.io/F1-Dashboard/">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=wahidkherchache&repo=F1-Dashboard&theme=dark&border_color=B10F1D&title_color=B10F1D&text_color=cccccc&bg_color=1A1A1A&icon_color=B10F1D"/>
-</a>
-<a href="https://wahidkherchache.github.io/Portfo/">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=wahidkherchache&repo=Portfo&theme=dark&border_color=B10F1D&title_color=B10F1D&text_color=cccccc&bg_color=1A1A1A&icon_color=B10F1D"/>
-</a>
-
-</div>
-
 **🏁 F1 Telemetry Dashboard** — Live standings, race results, and driver telemetry, powered by the Jolpica-F1 API. Built with React + Vite, with smart caching and request-timeout handling for a snappy experience.
 
 **🎨 Portfo — Personal Portfolio** — A Ferrari-inspired portfolio site with smooth Framer Motion animations, built with React 18, TypeScript, and Tailwind CSS.
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=wahidkherchache&show_icons=true&theme=dark&border_color=B10F1D&title_color=B10F1D&text_color=cccccc&bg_color=1A1A1A&icon_color=B10F1D&hide_border=false"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahidkherchache&layout=compact&theme=dark&border_color=B10F1D&title_color=B10F1D&text_color=cccccc&bg_color=1A1A1A&hide_border=false"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wahidkherchache&theme=dark&border=B10F1D&ring=B10F1D&fire=B10F1D&currStreakLabel=B10F1D&background=1A1A1A"/>
-
-</div>
 
 <br/>
 
