@@ -169,6 +169,4 @@ A personal portfolio site built with React, Vite, and TypeScript, featuring a Fe
 
 *"Code with purpose, secure with intent."*
 
-<img width="100%" src="https://capsule-render.com/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
-
 </div>
