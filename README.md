@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.com/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Abdelouahid%20Kherchache&fontSize=42&fontColor=E0AAFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Front-End%20%2F%20React%20Developer&descAlignY=58&descSize=18" />
+
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=B18CFF&center=true&vCenter=true&width=650&lines=Final-Year+CS+Student+%40+USTHB;React+%7C+JavaScript+%7C+Node.js+Developer;Exploring+Web+Security+%26+Pentesting;Open+to+Front-End+%2F+React+Internships" alt="Typing SVG" />
@@ -149,11 +149,6 @@ A personal portfolio site built with React, Vite, and TypeScript, featuring a Fe
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=wahidkherchache&theme=react-dark&bg_color=0D1117&color=B18CFF&line=8A2BE2&point=E0AAFF" width="100%" />
 </div>
 
-### 🐍 Contribution Snake
-<div align="center">
-<img src="https://raw.githubusercontent.com/wahidkherchache/wahidkherchache/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</div>
-
 ---
 
 
@@ -161,7 +156,7 @@ A personal portfolio site built with React, Vite, and TypeScript, featuring a Fe
 
 <div align="center">
 
-<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:wahidkherchache@gmail.com"><img src="https://img.shields.io/badge/Gmail-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/abdelouahid-kherchache"><img src="https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/wahidkherchache"><img src="https://img.shields.io/badge/GitHub-2E0854?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://wahidkherchache.github.io/Portfo/"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" /></a>
