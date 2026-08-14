@@ -127,16 +127,6 @@ A personal portfolio site built with React, Vite, and TypeScript, featuring a Fe
 
 ---
 
-## 🔴 GitHub Analytics
-
-<div align="center">
-
-
-<img src="https://streak-stats.demolab.com/?user=wahidkherchache&theme=dark&hide_border=true&background=0D1117&stroke=CC0000&ring=FF3B3B&fire=FF3B3B&currStreakLabel=FF3B3B" width="49%" />
-
-
-
-</div>
 
 
 ### 📈 Contribution Activity
