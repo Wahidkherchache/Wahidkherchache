@@ -50,28 +50,23 @@ Alongside web development, I'm building a parallel track in **cybersecurity and 
 
 ---
 
-## 🔴 Tech Stack
+🔴 Tech Stack
 
-**Languages**
-<p>
-<img src="https://skillicons.dev/icons?i=java,c,js,ts" />
-</p>
+Languages
 
-**Front-End**
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" />
-</p>
+<p> <img src="https://skillicons.dev/icons?i=java,c,js,ts,python" /> </p>
 
-**Back-End & Databases**
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,oracle,mysql" />
-</p>
+Front-End
 
-**Cloud, DevOps & Tooling**
-<p>
-<img src="https://skillicons.dev/icons?i=linux,git,github,githubactions,vscode" />
-</p>
+<p> <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite" /> </p>
 
+Back-End & Databases
+
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express,oracle,mongodb,postgres,supabase" /> </p>
+
+Cloud, DevOps & Tooling
+
+<p> <img src="https://skillicons.dev/icons?i=linux,git,github,githubactions,vscode,vercel" /> </p>
 ---
 
 ## 🔴 Security & Networking Focus
@@ -128,13 +123,9 @@ A personal portfolio site built with React, Vite, and TypeScript, featuring a Fe
 ---
 
 
+🔴 GitHub Analytics
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=wahidkherchache&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF3B3B&icon_color=CC0000&text_color=E0E0E0" width="49%" /> <img src="https://streak-stats.demolab.com/?user=wahidkherchache&theme=dark&hide_border=true&background=0D1117&stroke=CC0000&ring=FF3B3B&fire=FF3B3B&currStreakLabel=FF3B3B" width="49%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahidkherchache&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF3B3B&text_color=E0E0E0" width="49%" /> </div>
 
-### 📈 Contribution Activity
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wahidkherchache&theme=redical&bg_color=0D1117&color=FF3B3B&line=CC0000&point=FFFFFF" width="100%" />
-</div>
-
----
 
 
 ## 🔴 Connect With Me
