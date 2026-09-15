@@ -44,12 +44,8 @@ I'm a final-year Computer Science student (Software Engineering track) at **USTH
 
 Alongside web development, I'm building a parallel track in **cybersecurity and networks** — studying OWASP fundamentals, web application security, and working toward web pentesting and bug bounty work as a long-term specialization.
 
-**Open To:**
-- 🎯 Front-End / React Internship opportunities
-- 🤝 Open-source collaboration on React / tooling projects
 
----
-
+ 
 🔴 Tech Stack
 
 Languages
@@ -84,41 +80,6 @@ Cloud, DevOps & Tooling
 
 ---
 
-## 🔴 Featured Projects
-
-<details>
-<summary><b>🏎️ F1 Telemetry Dashboard</b></summary>
-<br/>
-
-A React-based Formula 1 telemetry and statistics dashboard powered by the Jolpica-F1 API, presenting live race data, standings, and historical stats through a clean, data-dense interface.
-
-| | |
-|---|---|
-| **Stack** | React, Vite, Jolpica-F1 API |
-| **Focus** | Data visualization, API integration, CI/CD exploration |
-| **DevOps** | Exploring GitHub Actions for automated deployment |
-| **Repository** | [F1-Dashboard](https://github.com/wahidkherchache/F1-Dashboard) |
-| **Live Demo** | [wahidkherchache.github.io/F1-Dashboard](https://wahidkherchache.github.io/F1-Dashboard/) |
-
-Built to practice consuming and structuring real-world REST APIs while exploring automated build/deploy pipelines.
-
-</details>
-
-<details>
-<summary><b>🏁 Portfo — Personal Portfolio</b></summary>
-<br/>
-
-A personal portfolio site built with React, Vite, and TypeScript, featuring a Ferrari-inspired dark theme with red accent styling.
-
-| | |
-|---|---|
-| **Stack** | React, Vite, TypeScript, Tailwind CSS |
-| **Design** | Ferrari-inspired theme, red accents |
-| **DevOps** | Exploring GitHub Actions for automated deployment |
-| **Repository** | [Portfo](https://github.com/wahidkherchache/Portfo) |
-| **Live Demo** | [wahidkherchache.github.io/Portfo](https://wahidkherchache.github.io/Portfo/) |
-
-</details>
 
 ---
 
