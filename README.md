@@ -84,10 +84,6 @@ Cloud, DevOps & Tooling
 ---
 
 
-🔴 GitHub Analytics
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=wahidkherchache&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF3B3B&icon_color=CC0000&text_color=E0E0E0" width="49%" /> <img src="https://streak-stats.demolab.com/?user=wahidkherchache&theme=dark&hide_border=true&background=0D1117&stroke=CC0000&ring=FF3B3B&fire=FF3B3B&currStreakLabel=FF3B3B" width="49%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahidkherchache&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF3B3B&text_color=E0E0E0" width="49%" /> </div>
-
-
 
 ## 🔴 Connect With Me
 
