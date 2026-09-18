@@ -72,7 +72,7 @@ Cloud, DevOps & Tooling
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| Web Application Security | 🔴⚪⚪⚪⚪ | OWASP Top 10, XSS, CSRF, SQL Injection, security headers |
+| Web Application Security | 🔴🔴🔴⚪⚪ | OWASP Top 10, XSS, CSRF, SQL Injection, security headers |
 | Networking Fundamentals | 🔴🔴⚪⚪⚪ | Core networking concepts, Linux/CMD comparative administration |
 | Web Pentesting | 🔴🔴⚪⚪⚪ | Building toward bug bounty participation |
 | Databases & SQL | 🔴🔴🔴⚪⚪ | Oracle SQL, relational design |
