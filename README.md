@@ -45,6 +45,7 @@ I'm a final-year Computer Science student (Software Engineering track) at **USTH
 Alongside web development, I'm building a parallel track in **cybersecurity and networks** — studying OWASP fundamentals, web application security, and working toward web pentesting and bug bounty work as a long-term specialization.
 
 
+
  
 🔴 Tech Stack
 
