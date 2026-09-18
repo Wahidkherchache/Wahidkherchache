@@ -59,7 +59,7 @@ Front-End
 
 Back-End & Databases
 
-<p> <img src="https://skillicons.dev/icons?i=nodejs,express,oracle,mongodb,postgres,supabase" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,supabase" /> </p>
 
 Cloud, DevOps & Tooling
 
