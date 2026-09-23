@@ -34,7 +34,7 @@
 
 ```yaml
 name: "Abdelouahid Kherchache"
-role: "Final-Year Software Engineering Student"
+role: "Junior Computer Engineer"
 university: "USTHB — University of Science and Technology Houari Boumediene"
 location: "Baba Hassen, Algiers, Algeria"
 focus: ["Front-End Engineering", "React Development", "Full-Stack Fundamentals"]
