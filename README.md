@@ -82,8 +82,6 @@ Cloud, DevOps & Tooling
 ---
 
 
----
-
 
 
 ## 🔴 Connect With Me
