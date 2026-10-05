@@ -37,12 +37,9 @@ name: "Abdelouahid Kherchache"
 role: "Junior Computer Engineer"
 university: "USTHB — University of Science and Technology Houari Boumediene"
 location: "Baba Hassen, Algiers, Algeria"
-focus: ["Front-End Engineering", "React Development", "Full-Stack Fundamentals"]
 ```
 
-I'm a final-year Computer Science student (Software Engineering track) at **USTHB**, focused on building clean, performant, and production-minded front-end applications with **React**. My foundation spans Java, C, JavaScript, Node.js, Oracle SQL, and Linux, and I approach every project with a product-engineering mindset — not just "does it work," but "is it maintainable, secure, and scalable."
-
-Alongside web development, I'm building a parallel track in **cybersecurity and networks** — studying OWASP fundamentals, web application security, and working toward web pentesting and bug bounty work as a long-term specialization.
+Full-Stack Developer and final-year Computer Science student at USTHB (Algiers), specializing in software engineering. Ive been working as a Junior Software Engineer at Black and Yellow since August 2026, building production web applications end to end. On the front end, I work with Next.js, React, and TypeScript. On the back end, I build APIs with Nest.js and Node.js, backed by PostgreSQL (with Prisma ORM) and MongoDB.
 
 
 
